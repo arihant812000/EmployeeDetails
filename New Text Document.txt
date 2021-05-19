@@ -1,0 +1,39 @@
+Hello Everyone....
+I have prepared a basic requirements which you need to implement for the Employee project
+
+ 
+
+Employee:
+First Name
+Last Name
+Date of Birth
+Age - Calculate based on the DOB - Read only
+Email
+Phone No.
+Permenant Address
+Current Address
+Department - Dropdown
+Job Role
+
+ 
+
+Address:
+House Number
+Street
+City
+State
+Country
+PIN Code
+Landmark
+
+ 
+
+Employee and Address should be the 2 entities (objects). Address table should have a foreign key relationship with the Employee table.
+
+ 
+
+Implementation Step:
+1. Prepare the Database schema and get a sign off from the mentors.
+2. Build API using ASP.Net and C# (API project)
+3. Build front end app using Angular JS (Client project)
+4. Publish the application to Azure (Optional)

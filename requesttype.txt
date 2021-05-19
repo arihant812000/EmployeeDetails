@@ -1,0 +1,32 @@
+{
+    
+    "First_Name":"apoorna",
+    "Last_Name":"Jain",
+    "Age":20,
+    "Date_of_Birth":"12/5/2021",
+     "Department":"Mis",
+    "Email":"annkccnkdnc@gmail.com",
+    "Job_Role":"Assistant manager",
+    "Phone_No":"9845678920",
+    "empaddr":[{
+ "Address_type":"Permanent",
+    "House_number":"2014",
+    "Street":"dayanand nagar",
+     "City":"Bahadurgarh",
+    "State":"Haryana",
+    "Country":"India",
+    "Pin_Code":124507,
+    "Landmark":"acp"
+    },
+    {
+ "Address_type":"current",
+    "House_number":"2014",
+    "Street":"dayanand nagar",
+     "City":"Bahadurgarh",
+    "State":"Haryana",
+    "Country":"India",
+    "Pin_Code":124507,
+    "Landmark":"acp"
+    }
+    ]
+}
